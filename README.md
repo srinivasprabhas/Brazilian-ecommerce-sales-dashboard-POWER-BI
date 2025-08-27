@@ -84,7 +84,7 @@ The dataset contains multiple CSV files including:
 
 ## 📷 Dashboard Preview
 
->  
+>  (https://github.com/srinivasprabhas/Brazilian-ecommerce-sales-dashboard-POWER-BI/blob/main/Brazilian%20ecommerce%20sales%20dashboard%20.png)
 
 ---
 
